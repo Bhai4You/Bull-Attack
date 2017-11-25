@@ -8,4 +8,5 @@ Installation Step....
 ==> apt install python2
 ==> apt install git
 ==> cd $HOME
-==> git clone 
+==> git clone https://github.com/Bhai4You/Bull-Attack
+==> python2 b-attack.py
