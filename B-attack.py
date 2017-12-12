@@ -1,5 +1,34 @@
 
 
+#	 Bull Attack
+#<----------------×----------------->
+#Hack any Web or IP Location!!!! (Termux)
+#
+#
+# Name     : Bull Attack
+# Coder     : Sutariya Parixit
+# Code       : Python
+# S.code    : 8h4i
+#
+# Copyright © 2017 by 8h4i
+#
+#
+#<=====[ WARNING ]=====>
+#
+#  DO NOT COPY OR MODIFY THIS SCRIPT WITHOUT PERMISSION AFTER THAT I AM NOT RESPONSIBLE FOR ANY TYPE OF DAMAGE!!!
+# 
+#<=====[ WARNING ]=====>
+#
+#
+# Hacking is a Crime!!! This Tool Only Use For Educational Perpose Don't Work Any illegal Activities Using Bull Attack...
+#
+#
+# Everything is Possible Change Thinking!!!!
+
+
+
+
+
 import os, sys, subprocess,time
 import os, sys, json, urllib, re
 from time import sleep
