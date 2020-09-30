@@ -30,3 +30,7 @@ Installation Step....
 
 
 ==> python2 B-attack.py
+
+
+Important Note : 
+Everything shows in to be used for education purpose only. All information exposed in this presentation has the goal to teach you techniques used by hackers in other to avoid their attacks. Plear made sure before analyzing Applications that you have the approval of owner/Author of the Applications you are Analyzing.Hacking is a crime and I am not responsible for the way your use it.
